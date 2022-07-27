@@ -2,7 +2,7 @@ version: 0.2
 
 env:
   variables:
-    _PROJECT_NAME: "user14-product"
+    _PROJECT_NAME: "kys-product"
 
 phases:
   install:
